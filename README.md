@@ -1,8 +1,8 @@
-# ChatBotFit
+# <h1 align="center">ChatBotFit</h1>
 
-Um projeto de ChatBotFit no Telegram com Node.js e Dialogflow.
+<p align="justify">Um projeto de ChatBotFit no Telegram com Node.js e Dialogflow.</p>
 
-A ChatBotFit project on Telegram with Node.js and Dialogflow.
+<p align="justify">A ChatBotFit project on Telegram with Node.js and Dialogflow.</p>
 
 # Dependências - Dependencies
 
