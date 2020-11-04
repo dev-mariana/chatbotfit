@@ -1,17 +1,17 @@
 # <h1 align="center">ChatBotFit</h1>
 
-<p align="justify">Um projeto de ChatBotFit no Telegram com Node.js e Dialogflow.</p>
+<p align="center">Um projeto de ChatBotFit no Telegram com Node.js e Dialogflow.</p>
 
-<p align="justify">A ChatBotFit project on Telegram with Node.js and Dialogflow.</p>
+<p align="center">A ChatBotFit project on Telegram with Node.js and Dialogflow.</p>
 
-# <h1 align="center">Dependências - Dependencies</h1>
+# <h1>Dependências - Dependencies</h1>
 
 * node-telegram-bot-api
 * dialogflow
 * youtube-node
 * dotenv
 
-# <h1 align="center">Instalação - Installation</h1>
+# <h1>Instalação - Installation</h1>
 
 <p align="justify">1. Clone o repositório git clone `git@github.com:dev-mariana/chatbotfit.git`.</p>
 <p align="justify">Use git clone in the repository `git@github.com:dev-mariana/chatbotfit.git`.</p>
