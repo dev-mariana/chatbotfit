@@ -1,4 +1,4 @@
-# <h2 align="center">ChatBotFit</h12>
+# <h2 align="center">ChatBotFit</h2>
 
 <p align="center">Um projeto de ChatBotFit no Telegram com Node.js e Dialogflow.</p>
 
